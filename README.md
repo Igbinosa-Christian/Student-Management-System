@@ -1,5 +1,7 @@
 # SMS
 
+Hosted live on [HERE](https://manor.pythonanywhere.com/)
+
 SMS is an [AltSchool Africa](https://www.altschoolafrica.com/) 3rd Semester Back-End Examination project by [IGBINOSA CHRISTIAN](https://github.com/Igbinosa-Christian). It is a simple Student Management System API built with:
 
 - [Python](https://www.python.org/) 
@@ -60,7 +62,7 @@ Download and install  [Python](https://www.python.org/downloads/)
 
 1.Clone this repository. 
 ```sh
-git clone https://github.com/Igbinosa-Christian/SMS
+git clone https://github.com/Igbinosa-Christian/Student-Management-System.git
 ```
 
 2.While in the cloned repository directory, create a virtual environment depending on your OS and CMD, this is for Windows Git Bash
@@ -109,4 +111,4 @@ Under [MIT](https://github.com/Igbinosa-Christian/SMS)
 ## Contact
 - [Twitter](https://twitter.com/_m_anor)
 - Email igbinosa62@gmail.com
-- [Project Repository](https://github.com/Igbinosa-Christian/SMS)
+- [Project Repository](https://github.com/Igbinosa-Christian/Student-Management-System.git)
