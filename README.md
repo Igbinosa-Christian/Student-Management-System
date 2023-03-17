@@ -106,7 +106,7 @@ flask run
 
 
 ## License
-Under [MIT](https://github.com/Igbinosa-Christian/SMS)
+Under [MIT](https://github.com/Igbinosa-Christian/Student-Management-System/blob/main/LICENSE.md)
 
 ## Contact
 - [Twitter](https://twitter.com/_m_anor)
