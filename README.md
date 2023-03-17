@@ -1,6 +1,6 @@
 # SMS
 
-Hosted live on [HERE](https://manor.pythonanywhere.com/)
+Hosted live [HERE](https://manor.pythonanywhere.com/)
 
 SMS is an [AltSchool Africa](https://www.altschoolafrica.com/) 3rd Semester Back-End Examination project by [IGBINOSA CHRISTIAN](https://github.com/Igbinosa-Christian). It is a simple Student Management System API built with:
 
